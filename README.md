@@ -1,3 +1,5 @@
+<img src="https://github.com/alinaseri07/alinaseri07/blob/main/pictures/header.jpg?raw=true">
+
 ### Hi there, I'm Ali 👋
 
 I'm full stack javascript developer.
