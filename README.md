@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Ali 👋
 
-I'm full stack web developer.
+I'm Senior Front End Developer.
 
 Interested in SRE/DevOps/SysAdmin.
 
